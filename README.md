@@ -72,14 +72,4 @@ Add your Power BI dashboard screenshot to the repository and name it `dashboard_
 4. Run the notebook cells to explore the data.
 5. Open `Blinkit_Dashboard.pbix` using Microsoft Power BI Desktop.
 
-## 👩‍💻 Author
 
-**Sajal Jain**
-
-GitHub: [jainsajal4594-source](https://github.com/jainsajal4594-source)
-
-LinkedIn: [Sajal Jain](https://linkedin.com/in/sajal-jain-dev003)
-
----
-
-⭐ If you find this project useful, feel free to explore the repository!
